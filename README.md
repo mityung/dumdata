@@ -24,12 +24,12 @@ Dumdata is currently extended with the following services.
 
 | Service | Description |
 | ------ | ------ |
-| Dumdata Purify |  An online collaborative standardization platform driven by specialization centric role-based data access. It is a powerful tool for data harmonization, enabling the comparison and standardization of data across 170 coding systems to enhance comparability and usability. |
+| Dumdata Purify |  An online collaborative standardization platform driven by specialization centric role-based data access. It is a powerful tool for data harmonization, enabling the comparison and standardization of data across 129 coding systems to enhance comparability and usability. |
 | Terminology API | It assists in mapping free-text or codes to standardized clinical terminology from established reference code systems. This improves interoperability, ensures data consistency, and supports compliance with regulatory standards.|
 | Dumdata ETL | An advanced healthcare & life science-centric data engineering platform that simplifies interoperability and transformation of healthcare life science data from multiple sources and harmonize it into a desired data model.|
 
 
-- **Dumdata Purify** is an online collaborative standardization platform driven by specialization centric role-based data access. It is a powerful tool for data harmonization, enabling the comparison and standardization of data across 170 coding systems to enhance comparability and usability.
+- **Dumdata Purify** is an online collaborative standardization platform driven by specialization centric role-based data access. It is a powerful tool for data harmonization, enabling the comparison and standardization of data across 129 coding systems to enhance comparability and usability.
 - **Terminology API** assists in mapping free-text or codes to standardized clinical terminology from established reference code systems. This improves interoperability, ensures data consistency, and supports compliance with regulatory standards.
 - **Dumdata ETL** is an advanced healthcare & life science-centric data engineering platform that simplifies interoperability and transformation of healthcare life science data from multiple sources and harmonize it into a desired data model.
 
